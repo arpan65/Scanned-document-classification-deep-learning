@@ -1,0 +1,3 @@
+The data can be load from the below link :
+http://www.cs.cmu.edu/~aharley/rvl-cdip/
+- use curlWidget for faster download
