@@ -1,1 +1,3 @@
-model
+Download trained vgg16 and InceptionResNet models from this link:
+
+https://drive.google.com/open?id=1huybtwWtrBAsBuABYdrQtP90f_m3vwnQ
