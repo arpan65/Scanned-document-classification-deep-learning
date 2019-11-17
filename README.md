@@ -25,7 +25,7 @@ In various phase we have tried with
 image size : 64/128/224                                                                                                        
 optimizers: vanila SGD/rmsprop/adam/adamax
 batch_size: 50/64/128                                                                                                         
-learning rate: 10^-1 to 0.1                                                                                                        
+learning rate: 10^-4 to 0.1                                                                                                        
 
 ## Preferable Hardware Requirments
 GPU
