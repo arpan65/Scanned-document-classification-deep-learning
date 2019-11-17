@@ -20,6 +20,9 @@ In this experiment we will take a different approach. Instead of intradomain tra
 
 How hyperparameters will be tuned? For any CNN the hypermeters are : pooling size, network size, batch size,choice of optimizers, learning rate,regularization,input size etc.
 To keep the main notebook neet we will do this experiments discreatly. We have develope some utility functions in paramtune.ipynb notebook. Suppose after 10 epoch we got an accuacy of 47%. We will use this model as testing baseline at that point and using the utility funtions we will check which configuration set(i.e. bach_size/optimizer/learning_rate) will result better accuracy in future epochs.
-
+## Preferable Hardware Requirments
+GPU
+16/24 GB RAM
+750 GB HDD (minimum 500GB)
 ## License
 MIT license
