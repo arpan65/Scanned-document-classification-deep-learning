@@ -6,11 +6,11 @@ We will use the RVL-CDIP (Ryerson Vision Lab Complex Document Information Proces
 
 link : https://www.cs.cmu.edu/~aharley/rvl-cdip/
 
-# Folder Structure
-Data -- link to download data
-Models -- link to download trained models
-Notebooks --DocManagement.ipynb (Anchor notebook), paramtune (Notebook for paramenter tunning)
-PDF -- Notebook snapshots in PDF format
-Scripts -- Necessary scripts to recreate the result
+## Folder Structure
+Data -- link to download data                                                                                      
+Models -- link to download trained models                                                                                           
+Notebooks --DocManagement.ipynb (Anchor notebook), paramtune (Notebook for paramenter tunning)                                                
+PDF -- Notebook snapshots in PDF format                                                                                             
+Scripts -- Necessary scripts to recreate the result                                                                               
 
-# License
+## License
