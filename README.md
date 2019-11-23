@@ -30,6 +30,10 @@ learning rate: 10^-4 to 0.1
 ## Preferable Hardware Requirments
 GPU
 16/24 GB RAM
-750 GB HDD (minimum 500GB)
+500 GB HDD (minimum 200GB)
+## Steps to Recreate
+Download the data from given link                                                                                                     
+Execure final.py to execute the whole pipeline                                                                                       
+Execute individual scripts/notebook to execute modules
 ## License
 MIT license
