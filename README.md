@@ -12,6 +12,7 @@ Models -- link to download trained models
 Notebooks --DocManagement.ipynb (Anchor notebook), paramtune (Notebook for paramenter tunning)                                                
 PDF -- Notebook snapshots in PDF format                                                                                             
 Scripts -- Necessary scripts to recreate the result   
+Screenshots -- All screenshots from the trining and evaluation process                                                       
 
 ## Training Stretegy
 We will use CNN(Convolution Neural Networks) to address the problem.Instead of developing our own model from scratch we will use transfer learning (here we will use models pretrined on ImageNet).The current SOTA model for this genere of problem uses inter and intra domain transfer learning where an image is divided in to four parts header,footer,left body and right body. A pretrained vgg16 model is first used to train over the whole images(inter domain) then this model is used to train the part of images(Intra domain).
