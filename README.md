@@ -39,3 +39,6 @@ Execute final method in Final.ipynb to execute the whole pipeline
 Execute individual scripts/notebook to execute modules
 ## License
 MIT license
+
+## Update APR 2021
+The code was originally written upon tensorflow < 2.0, to implement currently the dependencies need to be updated acordingly  
